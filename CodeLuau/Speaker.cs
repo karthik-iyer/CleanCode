@@ -1,13 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Linq;
 
 namespace CodeLuau
 {
-	/// <summary>
-	/// Represents a single speaker
-	/// </summary>
-	public class Speaker
+    /// <summary>
+    /// Represents a single speaker
+    /// </summary>
+    public class Speaker
 	{
 		public string FirstName { get; set; }
 		public string LastName { get; set; }
